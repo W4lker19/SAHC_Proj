@@ -6,6 +6,16 @@ A secure and centralized system for managing cryptographic keys in cloud-based a
 
 This KMS provides functionality for generating, storing, distributing, and controlling the use of cryptographic keys according to established policies. It integrates with Hardware Security Modules (HSMs) via the PKCS#11 interface.
 
+## Informação do Grupo
+
+**Grupo:** 7
+
+- Diogo Costa Teixeira (up202408889)
+- João Teixeira Filipe (up202408782)
+- Leonardo Araújo Freitas (up202400832)
+
+**Nota:** 15/20
+
 ## Features
 
 - HSM integration through PKCS#11
